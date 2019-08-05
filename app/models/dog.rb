@@ -4,7 +4,7 @@ class Dog
   
   attr_accessor :name, :age, :breed
   
-  def initalize(name, age, breed)
+  def initalize()
     @name = name
     @breed = breed
     @age = age
