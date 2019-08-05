@@ -4,7 +4,7 @@ class Dog
   
   def initalize()
     
+    
+    
   end
-  
-  
 end
