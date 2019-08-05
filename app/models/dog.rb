@@ -5,6 +5,6 @@ class Dog
   def initalize()
     
     
-    
+    @@all << self
   end
 end
